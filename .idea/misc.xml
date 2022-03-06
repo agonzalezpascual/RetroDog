@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_2CFGS/RetroDog/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android_2CFGS/RetroDog/app/src/main/res/layout/item_dog.xml" value="0.10208333333333333" />
         <entry key="..\:/Users/dam2/Desktop/Alfonso/PMDP/SegundoTrimestre/RetroDog/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/dam2/Desktop/Alfonso/PMDP/SegundoTrimestre/RetroDog/app/src/main/res/layout/item_dog.xml" value="0.20416666666666666" />
       </map>
